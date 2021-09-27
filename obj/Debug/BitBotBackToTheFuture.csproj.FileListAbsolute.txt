@@ -1,0 +1,14 @@
+J:\Work\GithubMateusGrijo\BotmexSurf\bin\Debug\BitBotBackToTheFuture.exe.config
+J:\Work\GithubMateusGrijo\BotmexSurf\bin\Debug\BitBotBackToTheFuture.exe
+J:\Work\GithubMateusGrijo\BotmexSurf\bin\Debug\BitBotBackToTheFuture.pdb
+J:\Work\GithubMateusGrijo\BotmexSurf\bin\Debug\Google.Protobuf.dll
+J:\Work\GithubMateusGrijo\BotmexSurf\bin\Debug\MySql.Data.dll
+J:\Work\GithubMateusGrijo\BotmexSurf\bin\Debug\Newtonsoft.Json.dll
+J:\Work\GithubMateusGrijo\BotmexSurf\bin\Debug\TA-Lib-Core.dll
+J:\Work\GithubMateusGrijo\BotmexSurf\bin\Debug\Google.Protobuf.xml
+J:\Work\GithubMateusGrijo\BotmexSurf\bin\Debug\MySql.Data.xml
+J:\Work\GithubMateusGrijo\BotmexSurf\obj\Debug\BitBotBackToTheFuture.csproj.AssemblyReference.cache
+J:\Work\GithubMateusGrijo\BotmexSurf\obj\Debug\BitBotBackToTheFuture.csproj.CoreCompileInputs.cache
+J:\Work\GithubMateusGrijo\BotmexSurf\obj\Debug\BitBotBackToTheFuture.csproj.CopyComplete
+J:\Work\GithubMateusGrijo\BotmexSurf\obj\Debug\BitBotBackToTheFuture.exe
+J:\Work\GithubMateusGrijo\BotmexSurf\obj\Debug\BitBotBackToTheFuture.pdb
